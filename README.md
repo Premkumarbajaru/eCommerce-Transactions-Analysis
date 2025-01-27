@@ -2,7 +2,7 @@
 # eCommerce Transactions Analysis Report
 
 ## Introduction
-This report provides an analysis of the `FirstName_LastName_EDA.ipynb` file, a Jupyter Notebook containing exploratory data analysis (EDA) code for an eCommerce Transactions dataset. The analysis is based on the provided code snippets and may not be comprehensive.
+This report provides an analysis of the `FirstName_LastName_EDA.ipynb` file, a Jupyter Notebook containing exploratory data analysis (EDA) code for an eCommerce Transactions dataset.
 
 ---
 
@@ -119,32 +119,6 @@ Based on the analysis, potential future work for the notebook could include:
 
 ---
 
-## Submission Instructions
-1. **GitHub Link**:
-   - Upload all the PDF and code files in a public GitHub repository.
-2. **File Naming Convention**:
-   - Use the following naming convention for all your files:
-     - `FirstName_LastName_EDA.pdf`
-     - `FirstName_LastName_EDA.ipynb`
-     - `FirstName_LastName_Lookalike.csv`
-     - `FirstName_LastName_Lookalike.ipynb`
-     - `FirstName_LastName_Clustering.pdf`
-     - `FirstName_LastName_Clustering.ipynb`
-
----
-
-## Evaluation Criteria
-Your submissions will be evaluated based on the following criteria:
-
-| Task                  | Weightage |
-|-----------------------|-----------|
-| Exploratory Data Analysis | 25%      |
-| Business Insights     | 15%       |
-| Lookalike Model       | 30%       |
-| Customer Segmentation | 30%       |
-
----
-
 ## Repository Structure
 ```
 eCommerce-Transactions-Analysis/
@@ -171,13 +145,6 @@ eCommerce-Transactions-Analysis/
    ```bash
    git clone https://github.com/Premkumarbajaru/eCommerce-Transactions-Analysis.git
    ```
-2. Navigate to the repository:
-   ```bash
-   cd eCommerce-Transactions-Analysis
-   ```
-3. Open the Jupyter Notebooks or Python scripts in the `Code/` folder to view the analysis and models.
-4. Refer to the `Reports/` folder for detailed insights and clustering results.
+2. Open the Jupyter Notebooks or Python scripts in the `Code/` folder to view the analysis and models.
 
 ---
-
-Let me know if you need further assistance!
