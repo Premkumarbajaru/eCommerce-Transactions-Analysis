@@ -1,6 +1,3 @@
-Here’s the revised version of your **eCommerce Transactions Analysis Report**. I’ve corrected grammatical errors, improved sentence structure, and ensured consistency in formatting. The content is now more polished and professional.
-
----
 
 # eCommerce Transactions Analysis Report
 
